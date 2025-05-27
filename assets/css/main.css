@@ -2211,7 +2211,7 @@ input, select, textarea {
 				rgba(18, 29, 64, 0.5),    /* #121D40 */
 				rgba(102, 63, 140, 0.4)   /* #663F8C */
 			),
-			url("/images/imagem3.png") center/cover fixed; /* Mantém o background-attachment */
+			url("images/imagem3.png") center/cover fixed; /* Mantém o background-attachment */
 		color: #fff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
